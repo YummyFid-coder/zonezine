@@ -20,3 +20,7 @@ The proxied CNAME for zonezine.org (name @) points to zonezine.pages.dev with au
 This project uses Cloudflare Pages Direct Upload. GitHub stores the source files; pushes to GitHub do not currently trigger automatic Cloudflare deployments. Upload the updated static files as a new production deployment after committing changes.
 
 This repository contains the deployable static site. The local-only image editor and preview server are not included. Media attribution is retained in captions and the assets source records. Third-party media playback depends on its provider.
+
+## Guide update — November 15, 2026
+
+The five guides now include focused sections and FAQs, current XP and Crew access guidance, a screenshot-labelled pass deadline, direct contextual links and concise page metadata. Tutorial and gallery pictures are included in the initial HTML; controls enhance that content without depending on a JSON request. Original creator credits and source links remain attached to screenshots and videos.

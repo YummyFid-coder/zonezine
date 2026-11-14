@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-11-14",
+  "method": "Unmodified full video frames extracted from the public creator uploads at the stated timestamps. The source videos were not uploaded to this website.",
+  "frames": [
+    {
+      "file": "refortniter-teto-pass-1000-vbucks.jpg",
+      "sourceUrl": "https://www.youtube.com/watch?v=sAB0gyTq-TQ&t=3s",
+      "creator": "REFORTNITER",
+      "sourceTitle": "KASANE TETO Fortnite MUSIC PASS — ALL REWARDS showcase",
+      "timestampSeconds": 3,
+      "width": 1280,
+      "height": 720,
+      "observed": "Shop > Music Pass offer tile displays 1,000 V-Bucks. This is an offer tile, not a checkout confirmation or standalone Outfit listing."
+    },
+    {
+      "file": "stealthy-teto-reactive-reward-page3.jpg",
+      "sourceUrl": "https://www.youtube.com/watch?v=FMcV4_Yihb4&t=132s",
+      "creator": "STEALTHY",
+      "sourceTitle": "Fortnite x Kasane Teto Mini-Music Pass (Festival Season 16)",
+      "timestampSeconds": 132,
+      "width": 1280,
+      "height": 720,
+      "observed": "Kasane Teto (Reactive On) selected as the last entry on page 3/3. Captured account is level 1. The locked-page gate gives a remaining count of nine rewards, with earning 20 levels as an alternative. This is a page-opening condition and an unclaimed preview, not proof of earning the style."
+    },
+    {
+      "file": "stealthy-teto-reward-page2-lock.jpg",
+      "sourceUrl": "https://www.youtube.com/watch?v=FMcV4_Yihb4&t=32s",
+      "creator": "STEALTHY",
+      "sourceTitle": "Fortnite x Kasane Teto Mini-Music Pass (Festival Season 16)",
+      "timestampSeconds": 32,
+      "width": 1280,
+      "height": 720,
+      "observed": "Chronicles of Destiny selected on page 2/3 with Prerequisite button. The locked-page gate gives a remaining count of three rewards, with earning 10 levels as an alternative. The remaining-reward count reflects this account’s captured state."
+    }
+  ]
+}

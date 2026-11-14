@@ -72,19 +72,23 @@
     "kind": "screenshot"
   },
   "skin-step-5": {
-    "src": "/assets/guide-web/destructoid-teto-dancing.jpg",
-    "alt": "Kasane Teto dancing with bright pink reactive accents in a Fortnite character preview",
-    "caption": "Teto's reactive look in a character preview, published by Destructoid. This illustrates the appearance of the style; it is not the final-tier unlock or purchase confirmation screen.",
-    "credit": "Screenshot by Kacee Fay / Destructoid; game by Epic Games",
-    "sourceUrl": "https://www.destructoid.com/complete-fortnite-kasane-teto-twindrill-diva-music-pass-all-skins-songs-and-more/",
-    "kind": "screenshot"
+    "src": "/assets/guide-web/stealthy-teto-reactive-reward-page3.jpg",
+    "alt": "Kasane Teto Reactive On selected as the final reward on Music Pass page three, with the locked-page condition visible",
+    "caption": "Kasane Teto (Reactive On) is selected at the end of page 3. In this account’s captured state, the page says “Claim 9 more rewards OR earn 20 levels to unlock.” That message describes the page gate; it is not an already-claimed style. Frame from STEALTHY’s showcase at 2:12.",
+    "credit": "Video frame: STEALTHY; Fortnite © Epic Games / respective rights holders",
+    "sourceUrl": "https://www.youtube.com/watch?v=FMcV4_Yihb4&t=132s",
+    "kind": "screenshot",
+    "width": 1280,
+    "height": 720
   },
   "price-pass": {
-    "src": "/assets/guide-web/beebom-teto-music-pass.jpg",
-    "alt": "English Fortnite Music Pass screen showing Kasane Teto and the Get Music Pass button",
-    "caption": "Select Get Music Pass to open the standalone access offer. This screenshot shows the purchase entry, not the checkout price. Epic’s linked announcement states the 1,000 V-Bucks pass price; verify the current price on the next in-game screen.",
-    "credit": "Epic Games; screenshot published by Beebom",
-    "sourceUrl": "https://beebom.com/how-to-get-kasane-teto-skin-fortnite/amp/",
-    "kind": "screenshot"
+    "src": "/assets/guide-web/refortniter-teto-pass-1000-vbucks.jpg",
+    "alt": "Fortnite Shop showing the Kasane Teto Music Pass offer priced at 1,000 V-Bucks",
+    "caption": "The in-game Music Pass offer displays 1,000 V-Bucks. Frame from REFORTNITER’s rewards showcase at 0:03. This is the pass offer tile, rather than the final purchase confirmation screen.",
+    "credit": "Video frame: REFORTNITER; Fortnite © Epic Games / respective rights holders",
+    "sourceUrl": "https://www.youtube.com/watch?v=sAB0gyTq-TQ&t=3s",
+    "kind": "screenshot",
+    "width": 1280,
+    "height": 720
   }
 }
