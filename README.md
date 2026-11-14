@@ -4,15 +4,16 @@ Independent English-language Fortnite reference site. The first release includes
 
 ## Published website
 
-- Live production site: https://zonezine.pages.dev
+- Live production site: https://zonezine.org
+- Cloudflare Pages fallback: https://zonezine.pages.dev
 - Cloudflare Pages project: zonezine
 - Production branch: main
 - Initial deployed website commit: 5d4f29083e89b9ae3a05f56d9321ca6fec068312
-- Intended custom domain: zonezine.org (registered with the Pages project; DNS validation pending)
+- Custom domain: zonezine.org (active; HTTPS verified)
 
 ## Custom-domain DNS
 
-Create a proxied CNAME for zonezine.org (name @) pointing to zonezine.pages.dev, with automatic TTL. The domain must also remain associated with this Pages project. Verify domain status and HTTPS after the record is added.
+The proxied CNAME for zonezine.org (name @) points to zonezine.pages.dev with automatic TTL. The domain is associated with this Pages project. Cloudflare domain validation, HTTPS and all six public pages were verified on November 14, 2026.
 
 ## Publishing updates
 
