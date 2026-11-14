@@ -1,0 +1,19 @@
+{
+  "reviewed": "2026-11-14",
+  "images": [
+    {
+      "slot": "profile-character",
+      "file": "teto-official-character-profile.png",
+      "sourcePage": "https://kasaneteto.jp/about/",
+      "imageSource": "https://kasaneteto.jp/assets/images/about/profile/img_about_profile.png",
+      "description": "Unmodified transparent-background character illustration in the official site's PROFILE section. Visually inspected after download."
+    },
+    {
+      "slot": "profile-voice",
+      "file": "teto-synthesizer-v2-official-product.png",
+      "sourcePage": "https://kasaneteto.jp/synthesizerv/",
+      "imageSource": "https://kasaneteto.jp/assets/images/synthesizerv/store/img_synthesizerv_store_synthesizerv2.png",
+      "description": "Unmodified transparent-background image of the Synthesizer V 2 AI Kasane Teto product box. Visually inspected after download."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "slot": "reward-0",
+    "file": "kasane-teto.png",
+    "cosmeticId": "Character_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Kasane%20Teto",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/character_cactusbait/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-1",
+    "file": "pearto.png",
+    "cosmeticId": "Backpack_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Pearto",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/backpack_cactusbait/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-2",
+    "file": "tetos-ready.png",
+    "cosmeticId": "Spray_S43MP",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Teto%27s%20Ready",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/spray_s43mp/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-3",
+    "file": "0401-kasane-teto.png",
+    "cosmeticId": "Wrap_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=0401%20Kasane%20Teto",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/wrap_cactusbait/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-5",
+    "file": "baguette-bonker.png",
+    "cosmeticId": "Pickaxe_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Teto%27s%20Baguette%20Bonker",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/pickaxe_cactusbait/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-7",
+    "file": "chibi-teto.png",
+    "cosmeticId": "Emoticon_S43MP",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Chibi%20Teto",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/emoticon_s43mp/smallicon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-8",
+    "file": "clap-to-it.png",
+    "cosmeticId": "EID_Mic_JammingBoyband",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Clap%20To%20It",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/eid_mic_jammingboyband/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-9",
+    "file": "miku-teto-slippers.png",
+    "cosmeticId": "Shoes_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Miku%20%26%20Teto%20Slippers",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/shoes_cactusbait/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-10",
+    "file": "birdbrain-emote.png",
+    "cosmeticId": "EID_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/search?name=Birdbrain",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/eid_cactusbait/icon.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-4",
+    "file": "shut-up-and-dance.jpg",
+    "cosmeticId": "sid_placeholder_640",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/tracks",
+    "imageSource": "https://cdn.fortnite-api.com/tracks/e5f3e2697e62c16d.jpg",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-6",
+    "file": "chronicles-of-destiny.jpg",
+    "cosmeticId": "sid_placeholder_996",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/tracks",
+    "imageSource": "https://cdn.fortnite-api.com/tracks/fb25be065281db0e.jpg",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-11",
+    "file": "sa-sen.jpg",
+    "cosmeticId": "sid_placeholder_997",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/tracks",
+    "imageSource": "https://cdn.fortnite-api.com/tracks/f66ca70dc0df8cb1.jpg",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-12",
+    "file": "birdbrain-jam-track.jpg",
+    "cosmeticId": "sid_placeholder_928",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/tracks",
+    "imageSource": "https://cdn.fortnite-api.com/tracks/54454502354cbdea.jpg",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-13",
+    "file": "hue-futura-microphone.png",
+    "cosmeticId": "Sparks_Mic_PlasticGradient",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/instruments",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/instruments/sparks_mic_plasticgradient/large.png",
+    "reviewed": "2026-11-14"
+  },
+  {
+    "slot": "reward-14",
+    "file": "kasane-teto-reactive-on.png",
+    "cosmeticId": "Character_CactusBait",
+    "apiSource": "https://fortnite-api.com/v2/cosmetics/br/Character_CactusBait",
+    "imageSource": "https://fortnite-api.com/images/cosmetics/br/character_cactusbait/variants/emissive/emissive1.png",
+    "reviewed": "2026-11-14"
+  }
+]

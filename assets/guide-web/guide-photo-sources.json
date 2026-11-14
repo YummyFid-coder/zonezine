@@ -1,0 +1,90 @@
+{
+  "skin-step-1": {
+    "src": "/assets/guide-media/owner-lobby-passes-updated.png",
+    "alt": "Fortnite lobby with the English Passes tab outlined in red",
+    "caption": "Select Passes in the top navigation, outlined in red in this owner-supplied screenshot. The main navigation is in English; some promotional and mode labels elsewhere in the capture remain in Chinese.",
+    "credit": "Screenshot supplied by the site owner; Fortnite © Epic Games",
+    "sourceUrl": "",
+    "kind": "screenshot"
+  },
+  "skin-step-2": {
+    "src": "/assets/guide-media/owner-pass-selector-updated.png",
+    "alt": "Fortnite Battle Pass overview with the Passes and FN Crew entry at the bottom",
+    "caption": "The Passes area can open on Battle Pass first. Select Passes & FN Crew near the bottom to browse the other passes. This is the Battle Pass screen, not the Teto Music Pass; its December 4, 2026 end date does not apply to Teto’s pass.",
+    "credit": "Screenshot supplied by the site owner; Fortnite © Epic Games",
+    "sourceUrl": "",
+    "kind": "screenshot"
+  },
+  "skin-step-3": {
+    "src": "/assets/guide-media/owner-teto-music-pass-updated.png",
+    "alt": "English TWINDRILL DIVA Music Pass overview with a Get Music Pass button at the bottom right",
+    "caption": "Select the Music Pass tile, then choose Get Music Pass at the bottom right to review the standalone offer. The large yellow Join Fortnite Crew button opens a separate subscription route. Its HK$76 monthly display is a regional Crew price, not the V-Bucks pass checkout.",
+    "credit": "Screenshot supplied by the site owner; Fortnite © Epic Games",
+    "sourceUrl": "",
+    "kind": "screenshot"
+  },
+  "price-crew": {
+    "src": "/assets/guide-media/owner-teto-music-pass-updated.png",
+    "alt": "English Teto Music Pass screen showing Join Fortnite Crew for HK$76 per month and a separate Get Music Pass button",
+    "caption": "The large yellow Join Fortnite Crew button opens the subscription offer; Get Music Pass is the separate button at the bottom right. This owner-supplied capture displays HK$76 per month for its region. That is a regional Crew subscription price, not a global cash price or the standalone V-Bucks checkout.",
+    "credit": "Screenshot supplied by the site owner; Fortnite © Epic Games",
+    "sourceUrl": "",
+    "kind": "screenshot"
+  },
+  "release-announce": {
+    "src": "/assets/teto-official.jpg",
+    "alt": "Official Kasane Teto Outfit art released with Epic’s Music Mini-Pass announcement",
+    "caption": "Promotional artwork accompanying the official Teto announcement. The November 11 publication date is documented in the linked announcement; this image is not a screenshot of the article or a launch-time capture.",
+    "credit": "Epic Games / respective rights holders",
+    "sourceUrl": "https://epic-games-france.prezly.com/kasane-teto-est-la-tete-daffiche-du-prochain-passe-musique-de-fortnite",
+    "kind": "official-art"
+  },
+  "profile-character": {
+    "src": "/assets/guide-web/teto-official-character-profile.png",
+    "alt": "Kasane Teto's official character illustration, with red drill-shaped twin tails and a gray-and-red outfit",
+    "caption": "Official character illustration from Teto's profile page. This reference design is separate from the Fortnite Outfit and does not show an in-game reward.",
+    "credit": "TWINDRILL / Kasane Teto official site; original character design by Sen",
+    "sourceUrl": "https://kasaneteto.jp/about/",
+    "kind": "official-art"
+  },
+  "profile-voice": {
+    "src": "/assets/guide-web/teto-synthesizer-v2-official-product.png",
+    "alt": "Official packaging artwork for the Synthesizer V 2 AI Kasane Teto singing voice database",
+    "caption": "Official Synthesizer V 2 AI Kasane Teto product artwork. This is voice-software packaging, not a Fortnite cosmetic or Music Pass reward.",
+    "credit": "TWINDRILL / AHS; original artist credited on the product packaging",
+    "sourceUrl": "https://kasaneteto.jp/synthesizerv/",
+    "kind": "official-art"
+  },
+  "release-pass": {
+    "src": "/assets/guide-web/beebom-teto-music-pass.jpg",
+    "alt": "English Fortnite Music Pass screen showing Kasane Teto and the Get Music Pass button",
+    "caption": "The English Music Pass reward screen before access is purchased. Select Get Music Pass to review the available access options. The purchase price is not shown in this image.",
+    "credit": "Epic Games; screenshot published by Beebom",
+    "sourceUrl": "https://beebom.com/how-to-get-kasane-teto-skin-fortnite/amp/",
+    "kind": "screenshot"
+  },
+  "skin-step-4": {
+    "src": "/assets/guide-web/destructoid-teto-music-pass.jpg",
+    "alt": "Fortnite Music Pass screen showing Kasane Teto marked Claimed with an Equip button",
+    "caption": "The base Kasane Teto Outfit marked Claimed in the Music Pass. The Equip button is available on this reward screen; this image does not show the Locker menu.",
+    "credit": "Screenshot by Kacee Fay / Destructoid; game by Epic Games",
+    "sourceUrl": "https://www.destructoid.com/complete-fortnite-kasane-teto-twindrill-diva-music-pass-all-skins-songs-and-more/",
+    "kind": "screenshot"
+  },
+  "skin-step-5": {
+    "src": "/assets/guide-web/destructoid-teto-dancing.jpg",
+    "alt": "Kasane Teto dancing with bright pink reactive accents in a Fortnite character preview",
+    "caption": "Teto's reactive look in a character preview, published by Destructoid. This illustrates the appearance of the style; it is not the final-tier unlock or purchase confirmation screen.",
+    "credit": "Screenshot by Kacee Fay / Destructoid; game by Epic Games",
+    "sourceUrl": "https://www.destructoid.com/complete-fortnite-kasane-teto-twindrill-diva-music-pass-all-skins-songs-and-more/",
+    "kind": "screenshot"
+  },
+  "price-pass": {
+    "src": "/assets/guide-web/beebom-teto-music-pass.jpg",
+    "alt": "English Fortnite Music Pass screen showing Kasane Teto and the Get Music Pass button",
+    "caption": "Select Get Music Pass to open the standalone access offer. This screenshot shows the purchase entry, not the checkout price. Epic’s linked announcement states the 1,000 V-Bucks pass price; verify the current price on the next in-game screen.",
+    "credit": "Epic Games; screenshot published by Beebom",
+    "sourceUrl": "https://beebom.com/how-to-get-kasane-teto-skin-fortnite/amp/",
+    "kind": "screenshot"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Kasane Teto",
+  "mediaUrl": "https://fnggcdn.com/items/25189/video.mp4",
+  "urlDiscovery": "Public Fortnite.GG CDN path for corrected cosmetic ID 25189; HTTP 200 and character visually verified in local browser",
+  "templateSource": "https://greasyfork.org/pt/scripts/482590-fortnite-image-replacer/code",
+  "sourcePage": "https://fortnite.gg/cosmetics?id=25189",
+  "format": "mp4",
+  "width": 800,
+  "height": 1204,
+  "duration": 9.834,
+  "bytes": 3283191,
+  "contentType": "video/mp4",
+  "reviewed": "2026-11-14",
+  "visualVerification": "Kasane Teto base Outfit, frontal and side views observed during rotation; mute looping playback and pause verified",
+  "visuallyVerified": true,
+  "src": "/assets/skin-rotation/kasane-teto-360.mp4"
+}

@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-11-14",
+  "selectionSource": "https://www.fortnite.com/news/kasane-teto-headlines-the-next-fortnite-music-pass",
+  "tracks": [
+    {
+      "id": "birdbrain",
+      "reward": 12,
+      "title": "BIRDBRAIN",
+      "artist": "Jamie Paige, OK Glass feat. Kasane Teto",
+      "art": "/assets/rewards/birdbrain-jam-track.jpg",
+      "type": "youtube",
+      "videoId": "0iVlSNpq8i8",
+      "sourceUrl": "https://www.youtube.com/watch?v=0iVlSNpq8i8",
+      "sourceLabel": "Official music video · Jamie Paige"
+    },
+    {
+      "id": "shutupanddance",
+      "reward": 4,
+      "title": "Shut Up and Dance",
+      "artist": "WALK THE MOON",
+      "art": "/assets/rewards/shut-up-and-dance.jpg",
+      "type": "youtube",
+      "videoId": "6JCLY0Rlx6Q",
+      "sourceUrl": "https://www.youtube.com/watch?v=6JCLY0Rlx6Q",
+      "sourceLabel": "Official music video · WALK THE MOON"
+    },
+    {
+      "id": "chroniclesofdestiny",
+      "reward": 6,
+      "title": "Chronicles of Destiny",
+      "artist": "The Home of Happy, James Corbin",
+      "art": "/assets/rewards/chronicles-of-destiny.jpg",
+      "type": "preview",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f3/73/16/f373168e-1136-8e62-b5f7-37df82b14b2b/mzaf_7907111743349875977.plus.aac.p.m4a",
+      "sourceUrl": "https://music.apple.com/us/album/chronicles-of-destiny/1706316249?i=1706316252&uo=4",
+      "sourceLabel": "Preview courtesy of Apple Music"
+    },
+    {
+      "id": "sasen",
+      "reward": 11,
+      "title": "Sa-Sen!",
+      "artist": "MONT, Risa, Musashi",
+      "art": "/assets/rewards/sa-sen.jpg",
+      "type": "preview",
+      "previewUrl": "https://p.scdn.co/mp3-preview/875fcafb537a2108167a8d141b4d3ef5061b9f99",
+      "sourceUrl": "https://open.spotify.com/track/6Epoxq0XRMAYTZm20vgDCA",
+      "sourceLabel": "Spotify preview · MONT, Risa, Musashi"
+    }
+  ]
+}
